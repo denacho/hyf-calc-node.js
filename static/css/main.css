@@ -1,0 +1,19 @@
+body {
+    background: #C7DAC7;
+    padding: 100px;
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+}
+
+.number-row {
+    margin-bottom: 5 rem;
+}
+
+.button-row {
+    margin-bottom: 5 rem;
+    
+}
+
+#error {
+    color: red;
+}
